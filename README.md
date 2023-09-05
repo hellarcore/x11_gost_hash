@@ -1,7 +1,7 @@
 x11_gost_hash (v1.4)
 ===========================
 
-Python module for Sibcoin's X11Gost hashing.
+Python module for Hellar's X11Gost hashing.
 
 
 Install
